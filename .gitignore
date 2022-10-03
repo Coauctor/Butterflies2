@@ -76,3 +76,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+/Butterflies/Saved/Config/CrashReportClient/UECC-Windows-4C32910A4E673948CDC29FA4C6D50712/CrashReportClient.ini
