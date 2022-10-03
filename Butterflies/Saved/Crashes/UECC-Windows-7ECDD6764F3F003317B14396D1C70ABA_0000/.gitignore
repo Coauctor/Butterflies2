@@ -1,0 +1,4 @@
+*.log
+/CrashContext.runtime-xml
+/CrashReportClient.ini
+/UEMinidump.dmp
