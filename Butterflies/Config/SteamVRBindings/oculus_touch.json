@@ -8,6 +8,17 @@
 		{
 			"sources": [
 				{
+					"mode": "trigger",
+					"path": "/user/hand/left/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/Catch"
+						}
+					}
+				},
+				{
 					"mode": "dpad",
 					"path": "/user/hand/left/input/joystick",
 					"parameters":
@@ -71,5 +82,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "Butterflies-20979098"
 }
